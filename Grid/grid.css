@@ -1,0 +1,40 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    height: 50vh;
+    gap: 10px;
+}
+.el--1{
+    background-color: aqua;
+}
+.el--2{
+    background-color: aquamarine;
+}
+.el--3{
+    background-color: bisque;
+    grid-column: 3/4;
+    grid-row: 1/3;
+}
+.el--4{
+    background-color: blue;
+}
+.el--5{
+    background-color: blueviolet;
+}
+.el--6{
+    background-color: chartreuse;
+}
+.el--7{
+    background-color: chocolate;
+}
+.el--8{
+    background-color: crimson;
+}
+.el--9{
+    background-color: mediumvioletred;
+    grid-column: 1/4;
+}
+.container-2{
+    display: grid;
+    margin: 100px;
+}

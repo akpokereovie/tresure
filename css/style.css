@@ -1,0 +1,32 @@
+.container{
+    max-width: 900px;
+    height: 400px;
+    background-color: #23424A;
+    margin-top: 30px;
+    margin-left: 40px;
+    color: aliceblue;
+    margin: 0% auto;
+}
+.red{
+    margin-left: 50px;
+    margin-top: 60px;
+    margin-top: 40px;
+
+}
+button{
+    width: 140px;
+    background-color: aqua; 
+    height: 35px;
+    padding: 8px;
+    border: none;
+    border-radius: 50px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.red h1{
+    font-size: 48px;
+    padding-top: 30px;
+    
+}
+
+
